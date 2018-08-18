@@ -1,4 +1,4 @@
-# VIM GUIDE
+# VIM COLOR GUIDE
 ## Color Schemes: Installation
 Just get all the files in colors/*.vim into ~/.vim/colors
 
